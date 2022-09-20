@@ -1,4 +1,10 @@
 ## Mike's Reading Journal
+
+#### About ME
+Hello, my name is Michael McMillan. I am new to software development and excited about my new pathway. I live in Washington State, have 2 children and three grandchildren. 
+
+Check out my [Github Profile!] ()
+
 My reading notes journal for Code Fellows.
 
 Growth Mindset - The attitude of contenuous learning. Three main ways to keep on the path to personal growth:
