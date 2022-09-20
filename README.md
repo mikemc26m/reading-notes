@@ -8,7 +8,7 @@ Check out my [Github Profile!](https://github.com/mikemc26m)
 
 Table of Contents
 
-* [Day 1 Topics](topicsDay1.md)
-* [Growth Mindset](growthmindset.md)
-* [Command Promts & Text Editor](Coders%20Computer.md)
+* [Day 1 Topics](/102%20Notes/topicsDay1.md)
+* [Growth Mindset](/102%20Notes/growthmindset.md)
+* [Command Promts & Text Editor](/102%20Notes/Coders%20Computer.md)
 
