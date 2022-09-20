@@ -12,3 +12,5 @@ There is pre-work that needs to be done before class. If you have any questions 
 * __Canvas__ is the class information. It has information such as the Syllabus, assignments and critical information about your work.  
 
 The class is intended to get you set up and going. If you are worried about making a webpge - DONT! Github uses markdown language which really simplifies making a website. You can use HTML but the markdown is much simpler place to start. The class takes cronological steps to make it easier to understand. 
+
+HTML uses opening and closing brackets "<>" where markdown uses simple syntax. The markdown language can be as simple as using an "#" depending on what you need. 
