@@ -1,9 +1,9 @@
 ## Mike's Reading Journal
 
 #### About ME
-Hello, my name is Michael McMillan. I am new to software development and excited about my new pathway. I live in Washington State, have 2 children and three grandchildren. 
+Hello, my name is Michael McMillan. I am new to software development and excited about my new pathway. I live in Washington State, have 2 children and three grandchildren. I love to disc golf, travel and go crabbing!
 
-Check out my [Github Profile!] ()
+Check out my [Github Profile!](https://github.com/mikemc26m). 
 
 My reading notes journal for Code Fellows.
 
