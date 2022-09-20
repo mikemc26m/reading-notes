@@ -1,1 +1,1 @@
-* Day 1 Topics
+## Day 1 Topics
