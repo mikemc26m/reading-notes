@@ -11,5 +11,5 @@ Command Prompts - Easy Navigation
 * Using command prompts is an easy and effective way to manage files. Instead of clicking icons you open a terminal and enter commands with prompts. There are many benefits to navigating this way as most programmers do.
 * Here is a link that further explains some of the basic commands: [Ubuntu Commands](https://ccm.net/computing/linux/2157-list-of-basic-ubuntu-commands/)
 
-[Back to Home Page](/README.md)
+[Back to Home Page](README.md)
 
