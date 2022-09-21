@@ -12,4 +12,3 @@ Command Prompts - Easy Navigation
 * Here is a link that further explains some of the basic commands: [Ubuntu Commands](https://ccm.net/computing/linux/2157-list-of-basic-ubuntu-commands/)
 
 [Back to Home Page](README.md)
-

@@ -12,3 +12,4 @@ Table of Contents
 * [Growth Mindset](growthmindset.md)
 * [Command Promts & Text Editor](CodersComputer.md)
 * [About Git](git.md)
+* [Basic HTML Info](htmlinfo.md)

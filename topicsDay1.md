@@ -18,4 +18,3 @@ The class is intended to get you set up and going. If you are worried about maki
 HTML uses opening and closing brackets "<>" where markdown uses simple syntax. The markdown language can be as simple as using an "#" depending on what you need.
 
 [Back to Home Page](README.md)
-
