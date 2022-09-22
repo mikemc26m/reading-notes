@@ -16,4 +16,4 @@ Table of Contents
 * [CSS](css.md)
 * [Javascript](js.md)
 * [More JS Notes](morejsnotes.md)
-
+* [JS Expressions and Operators](JSexpressions.md)
