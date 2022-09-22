@@ -13,3 +13,5 @@ Table of Contents
 * [Command Promts & Text Editor](CodersComputer.md)
 * [About Git](git.md)
 * [Basic HTML Info](htmlinfo.md)
+* [CSS](css.md)
+* [Javascript](js.md)
