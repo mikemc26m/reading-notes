@@ -15,3 +15,5 @@ Table of Contents
 * [Basic HTML Info](htmlinfo.md)
 * [CSS](css.md)
 * [Javascript](js.md)
+* [More JS Notes](morejsnotes.md)
+
