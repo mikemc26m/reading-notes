@@ -58,4 +58,4 @@ The expression x = 7 is an example of the first type. This expression uses the =
 
 The expression 3 + 4 is an example of the second type. This expression uses the + operator to add 3 and 4 together and produces a value, 7. However, if it's not eventually part of a bigger construct (for example, a variable declaration like const z = 3 + 4), its result will be immediately discarded — this is usually a programmer mistake because the evaluation doesn't produce any effects.
 
-[Back to Home Page](README.md)
+[Back to Home Page](/README.md)

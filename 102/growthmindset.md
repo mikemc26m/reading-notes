@@ -12,4 +12,4 @@ _Growth Mindset_ - The attitude of contenuous learning. Three main ways to keep 
 * Challenges / Rewards
   * Taking on a new task can be both challenging and rewarding. We naturally live in our comfort zones but tackling an unknown task can have it's rewards. Sometimes we may be surprised as to what we can learn to love.
 
-  [Back to Home Page](README.md)
+  [Back to Home Page](/README.md)

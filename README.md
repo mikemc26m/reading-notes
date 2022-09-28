@@ -6,14 +6,14 @@ Hello, my name is Michael McMillan. I am new to software development and excited
 
 Check out my [Github Profile!](https://github.com/mikemc26m)
 
-Table of Contents
+Reading Notes from Code Fellows courses 102-401:
 
-* [Day 1 Topics](topicsDay1.md)
-* [Growth Mindset](growthmindset.md)
-* [Command Promts & Text Editor](CodersComputer.md)
-* [About Git](git.md)
-* [Basic HTML Info](htmlinfo.md)
-* [CSS](css.md)
-* [Javascript](js.md)
-* [More JS Notes](morejsnotes.md)
-* [JS Expressions and Operators](JSexpressions.md)
+* [Day 1 Topics](102/topicsDay1.md)
+* [Growth Mindset](102/growthmindset.md)
+* [Command Promts & Text Editor](102/CodersComputer.md)
+* [About Git](102/git.md)
+* [Basic HTML Info](102/htmlinfo.md)
+* [CSS](102/css.md)
+* [Javascript](102/js.md)
+* [More JS Notes](102/morejsnotes.md)
+* [JS Expressions and Operators](102/JSexpressions.md)
