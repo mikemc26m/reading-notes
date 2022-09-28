@@ -13,7 +13,7 @@ Loops offer a quick and easy way to do something repeatedly. This chapter of the
 
 You can think of a loop as a computerized version of the game where you tell someone to take X steps in one direction, then Y steps in another.
 
-There are many different kinds of loops, but they all essentially do the same thing: they repeat an action some number of times. 
+There are many different kinds of loops, but they all essentially do the same thing: they repeat an action some number of times.
 
 A for statement looks as follows:
 

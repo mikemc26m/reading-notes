@@ -1,4 +1,4 @@
-# Javascript
+# Class 6 - Javascript
 
 JS is:
 
