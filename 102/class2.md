@@ -4,4 +4,4 @@ Get your computer ready for Visual Studio Code. You will need VS Code for the co
 
 [Code Fellows Computer Setup Guide](https://codefellows.github.io/setup-guide/)
 
-  [Back to Home Page](/README.md)
+  [Back to Home Page](../README.md)
