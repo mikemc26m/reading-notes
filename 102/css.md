@@ -13,4 +13,4 @@ Cascading Style Sheets
 
 Link CSS from the HTML page to the .css file.
 
-[Back to Home Page](/README.md)
+[Back to Home Page](../README.md)

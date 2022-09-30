@@ -21,4 +21,4 @@ Using Git Benefits
 * Git minimizes possibilities of damaging files.
 * Git has many benefits. To read more, visit this site: [Git Tutorial](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/#1)
 
-[Back to Home Page](/README.md)
+[Back to Home Page](../README.md)

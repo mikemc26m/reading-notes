@@ -20,4 +20,4 @@ A for statement looks as follows:
 for ([initialExpression]; [conditionExpression]; [incrementExpression])
   statement
 
-[Back to Home Page](/README.md)
+[Back to Home Page](../README.md)

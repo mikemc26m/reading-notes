@@ -16,4 +16,4 @@ JS is:
 
 JS is used to interact with the user. User input = JS output.
 
-[Back to Home Page](/README.md)
+[Back to Home Page](../README.md)

@@ -10,4 +10,4 @@ HTML uses elements that you use to enclose content to make it appear as you wish
 
 When creating an html page, it must be saved with a file extension of "html" for it to work. The home page for websites usually is called index.html.
 
-[Back to Home Page](/README.md)
+[Back to Home Page](../README.md)
