@@ -23,6 +23,15 @@ Check out my [Github Profile!](https://github.com/mikemc26m)
 * [Class 9- Career Coaching](102/career.md)
 * [Class 10- Final Exam](102/final.md)
 
+102 Principles for 201 Preparedness
+
+* [Brush up on Algebra](http://www.mathsisfun.com/algebra/index.html)
+* [Terminal Practice](https://ryanstutorials.net/linuxtutorial)
+* [Git Tutorials](https://blog.udemy.com/git-tutorial-a-comprehensive-guide)
+* [Git Hands-On Practice](https://learngitbranching.js.org/)
+* [Intro to HTML & CSS](https://www.khanacademy.org/computing/computer-programming/html-css)
+* [Intro to JavaScript](https://www.khanacademy.org/computing/computer-programming/programming)
+
 ### Code 201 - Foundations of Software Development
 
 * [Class 1- Introductory HTML & JavaScript](201/class1.md)
