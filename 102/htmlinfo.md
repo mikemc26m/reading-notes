@@ -10,4 +10,12 @@ HTML uses elements that you use to enclose content to make it appear as you wish
 
 When creating an html page, it must be saved with a file extension of "html" for it to work. The home page for websites usually is called index.html.
 
+## Resources
+
+* [Wireframe and Design](https://careerfoundry.com/en/blog/ux-design/how-to-create-your-first-wireframe/)
+* [HTML Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
+* [Semantics](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
+* [More HTML Docs](https://developer.mozilla.org/en-US/docs/Web/HTML)
+* [More HTML Elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+
 [Back to Home Page](../README.md)

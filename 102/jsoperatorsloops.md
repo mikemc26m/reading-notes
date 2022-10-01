@@ -11,11 +11,11 @@ A JS function is a block of code designed to perform a task. A JS function is ex
 A JS function is defined with the "function" keyword, followed by a name, followed by parenthesis. Function names can contain letters, digits, underscores, and dollar signs (same rules as variables).The parentheses may include parameter names separated by commas:
 (parameter1, parameter2, ...)
 
-The code to be executed, by the function, is placed inside curly brackets: {}
+* The code to be executed, by the function, is placed inside curly brackets: {}
 
-function name(parameter1, parameter2, parameter3) {
-  // code to be executed
-}
+      function name(parameter1, parameter2, parameter3) {
+      // code to be executed
+      }
 
 Function parameters are listed inside the parentheses () in the function definition.
 
@@ -57,5 +57,10 @@ There are different types of JavaScript operators:
 The expression x = 7 is an example of the first type. This expression uses the = operator to assign the value seven to the variable x. The expression itself evaluates to 7.
 
 The expression 3 + 4 is an example of the second type. This expression uses the + operator to add 3 and 4 together and produces a value, 7. However, if it's not eventually part of a bigger construct (for example, a variable declaration like const z = 3 + 4), its result will be immediately discarded — this is usually a programmer mistake because the evaluation doesn't produce any effects.
+
+## Resources
+
+* [Expressions and Operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators)
+* [Loops](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration)
 
 [Back to Home Page](../README.md)

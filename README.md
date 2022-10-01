@@ -19,7 +19,7 @@ Check out my [Github Profile!](https://github.com/mikemc26m)
 * [Class 5- CSS](102/css.md)
 * [Class 6- Basic JavaScript](102/js.md)
 * [Class 7- Programming with JavaScript](102/JSexpressions.md)
-* [Class 8- JS Operators, Expressions and Loops](102/morejsnotes.md)
+* [Class 8- JS Operators, Expressions and Loops](102/jsoperatorsloops.md)
 * [Class 9- Career Coaching](102/career.md)
 * [Class 10- Final Exam](102/final.md)
 
