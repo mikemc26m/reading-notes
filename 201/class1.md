@@ -17,11 +17,11 @@
 
 1. How HTML sends data between computers - Poem:
 
-> Hello DNS Sever, I'm trying to find some information for my user. Would you please send me information from cats.com? Absolutely says the server, here you go but you might want to say thanks to some computer hardware and networking systems along the way because without them, this wouldn't be possible. OK says the Browser. And the browser displayed the information that it's user wanted. 
+> Hello DNS Sever, I'm trying to find some information for my user. Would you please send me information from cats.com? Absolutely says the server, here you go but you might want to say thanks to some computer hardware and networking systems along the way because without them, this wouldn't be possible. OK says the Browser. And the browser displayed the information that it's user wanted.
 
 2. Describe how HTML, CSS, and JS files are “parsed” in the browser.
 
-   Browsers look at code in a logicaal way and follow the given instructions. It's vital the code is written in the correct order.
+    Browsers look at code in a logicaal way and follow the given instructions. It's vital the code is written in the correct order.
 
 3. How can you find images to add to a Website?
 
