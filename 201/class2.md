@@ -31,6 +31,7 @@ HTML Text Fundamentals & HTML Advanced
 2. Why should we avoid using inline styles?
      * Least efficient
      * Not best practice
+     * Gets messy
 
 3. Review the block of code below and answer the following questions:
 
@@ -41,7 +42,8 @@ HTML Text Fundamentals & HTML Advanced
   
   1. What is representing the selector? `h2`
 
-  2. Which components are the CSS declarations? `curly brackets`
+  2. Which components are the CSS declarations?  
+         *color and padding
 
   3. Which components are considered properties? `color, etc`
   
