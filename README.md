@@ -36,7 +36,7 @@ Check out my [Github Profile!](https://github.com/mikemc26m)
 
 * [Class 1- Introductory HTML & JavaScript](201/class1.md)
 * [Class 2- HTML Text, CSS Introduction, and Basic JavaScript Instructions](201/class2.md)
-* [Class 3-](201/class3.md)
+* [Class 3- HTML Lists, JS Control Flow nd CSS Box Model](201/class3.md)
 * [Class 4-](201/class4.md)
 * [Class 5-](201/class5.md)
 * [Class 6-](201/class6.md)
