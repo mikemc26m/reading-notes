@@ -39,7 +39,7 @@ Ordered and Unordered lists.
 
 ## Learn JS
 
-### Arrays. Operators and Expressions. Conditionals. Loops.
+### Arrays. Operators and Expressions. Conditionals. Loops
 
 1. What `data types` can you store inside of an `Array`?
 
