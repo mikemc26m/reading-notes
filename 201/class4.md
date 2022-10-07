@@ -18,13 +18,12 @@
 
 1. What is meant by “normal flow”? The way the webpage and it's code is laid out.
 
-2. What are a few differences between block-level and inline elements? 
-
+2. What are a few differences between block-level and inline elements? Block level elements fill all available in-line space and inline are the size of their content.
 
 3. ___ positioning is the default for every html element.
-Name a few advantages to using absolute positioning on an element.
+Name a few advantages to using absolute positioning on an element. Static is default. Absolute can force content to never move.
 
-4. What is a key difference between fixed positioning and absolute positioning?
+4. What is a key difference between fixed positioning and absolute positioning? Fixed positioning usually fixes an element in place relative to the visible portion of the view port. Absolute fixes the element in place regardless.
 
 ### [Learn JS](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
 
